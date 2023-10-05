@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    font-family: Helvetica;
+    padding: 0px;
+ 
+}
+
+.titulo{
+    text-align: center;
+    width: 70%;
+    
+}
+.tudo{
+    background-color: #00A6FB;
+    padding: 20px;
+    width: 1223px;
+    display: flex;
+    flex-direction: row;
+}
+
+.img{
+    width: 750px;
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rodape{
+    text-align: center;
+    background-color: #00A6FB;
+    padding: 15px;
+    font-size: 20px;
+
+}
+
+.seta{
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 30px;
+    width: 0px;
+    margin-right: 160px;
+
+}
+
+
+
